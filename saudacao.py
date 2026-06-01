@@ -1,4 +1,4 @@
-def saudacao(nome)
-  return f´ola , {nome}´
+def saudacao(nome):
+  return f"ola , {nome} !"
 
-print(saudacao('mundo'))
+print(saudacao("mundo"))
